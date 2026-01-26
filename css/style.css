@@ -1494,11 +1494,6 @@ footer {
     box-shadow: var(--shadow-orange), inset 0 0 30px rgba(214, 122, 66, 0.1);
 }
 
-.contact-icon {
-    font-size: 5rem;
-    margin-bottom: 1.5rem;
-}
-
 .contact-card-main h2 {
     color: var(--color-neon-orange);
     font-size: 2.5rem;
