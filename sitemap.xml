@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Página Principal -->
+    <url>
+        <loc>https://tudominio.com/index.html</loc>
+        <lastmod>2024-01-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Página de Visitantes/Personajes -->
+    <url>
+        <loc>https://tudominio.com/personajes.html</loc>
+        <lastmod>2024-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Página de Finales -->
+    <url>
+        <loc>https://tudominio.com/finales.html</loc>
+        <lastmod>2024-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Página de Mecánicas -->
+    <url>
+        <loc>https://tudominio.com/mecanicas.html</loc>
+        <lastmod>2024-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Página de Descarga -->
+    <url>
+        <loc>https://tudominio.com/descargar.html</loc>
+        <lastmod>2024-01-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+</urlset>

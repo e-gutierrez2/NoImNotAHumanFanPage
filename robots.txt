@@ -1,0 +1,25 @@
+# robots.txt para No, I'm not a Human - Proyecto Educativo
+
+User-agent: *
+Allow: /
+
+# Permitir acceso a todos los archivos principales
+Allow: /index.html
+Allow: /personajes.html
+Allow: /finales.html
+Allow: /mecanicas.html
+Allow: /descargar.html
+
+# Permitir acceso a recursos
+Allow: /styles.css
+Allow: /img/
+
+# Archivos que no deben ser indexados
+
+# Sitemap
+Sitemap: https://tudominio.com/sitemap.xml
+
+# Notas:
+# Este es un proyecto educativo para DAW
+# No tiene afiliación oficial con el juego "No, I'm not a Human"
+# Desarrolladores originales: Trioskaz / Critical Reflex

@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://tudominio.com/#website",
+      "url": "https://tudominio.com/",
+      "name": "No, I'm not a Human - Guía y Wiki del Juego",
+      "description": "Guía completa del juego de horror psicológico No, I'm not a Human. Información sobre personajes, Visitantes, finales y mecánicas de juego.",
+      "inLanguage": "es-ES",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Proyecto Educativo DAW"
+      }
+    },
+    {
+      "@type": "VideoGame",
+      "name": "No, I'm not a Human",
+      "alternateName": "No I'm not a Human",
+      "description": "Un juego de horror psicológico donde debes identificar Visitantes impostores entre supervivientes durante un apocalipsis solar. Desarrollado por Trioskaz.",
+      "genre": [
+        "Horror",
+        "Psychological Horror",
+        "Survival",
+        "Indie"
+      ],
+      "gamePlatform": [
+        "PC",
+        "Windows"
+      ],
+      "operatingSystem": "Windows 7/8/10/11",
+      "applicationCategory": "Game",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://store.steampowered.com/app/3180070/No_Im_not_a_Human/"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Trioskaz"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Critical Reflex"
+      },
+      "datePublished": "2025-09-15",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "9.2",
+        "ratingCount": "7651",
+        "bestRating": "10",
+        "worstRating": "1"
+      },
+      "playMode": "SinglePlayer",
+      "numberOfPlayers": {
+        "@type": "QuantitativeValue",
+        "value": "1"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tudominio.com/index.html#webpage",
+      "url": "https://tudominio.com/index.html",
+      "name": "Inicio - No, I'm not a Human",
+      "description": "Guía completa del juego de horror psicológico No, I'm not a Human. Historia, mecánicas y toda la información que necesitas para sobrevivir.",
+      "isPartOf": {
+        "@id": "https://tudominio.com/#website"
+      },
+      "inLanguage": "es-ES",
+      "about": {
+        "@type": "Thing",
+        "name": "No, I'm not a Human",
+        "description": "Videojuego de horror psicológico"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tudominio.com/personajes.html#webpage",
+      "url": "https://tudominio.com/personajes.html",
+      "name": "Visitantes y Personajes - No, I'm not a Human",
+      "description": "Guía completa de todos los Visitantes y personajes. Aprende a identificar quién es humano y quién es una amenaza mortal.",
+      "isPartOf": {
+        "@id": "https://tudominio.com/#website"
+      },
+      "inLanguage": "es-ES"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tudominio.com/finales.html#webpage",
+      "url": "https://tudominio.com/finales.html",
+      "name": "Todos los Finales - No, I'm not a Human",
+      "description": "Descubre los 10 finales posibles del juego y cómo desbloquear cada uno. Desde finales buenos hasta secretos ocultos.",
+      "isPartOf": {
+        "@id": "https://tudominio.com/#website"
+      },
+      "inLanguage": "es-ES"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tudominio.com/mecanicas.html#webpage",
+      "url": "https://tudominio.com/mecanicas.html",
+      "name": "Mecánicas de Juego - No, I'm not a Human",
+      "description": "Guía completa de todas las mecánicas del juego. Sistema de energía, identificación de Visitantes, supervivencia y estrategias.",
+      "isPartOf": {
+        "@id": "https://tudominio.com/#website"
+      },
+      "inLanguage": "es-ES"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tudominio.com/descargar.html#webpage",
+      "url": "https://tudominio.com/descargar.html",
+      "name": "Descargar - No, I'm not a Human",
+      "description": "Enlaces oficiales para descargar el juego en Steam, Itch.io y otras plataformas. Requisitos del sistema y guía de instalación.",
+      "isPartOf": {
+        "@id": "https://tudominio.com/#website"
+      },
+      "inLanguage": "es-ES"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://tudominio.com/",
+            "name": "Inicio"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://tudominio.com/personajes.html",
+            "name": "Visitantes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://tudominio.com/finales.html",
+            "name": "Finales"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://tudominio.com/mecanicas.html",
+            "name": "Mecánicas"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://tudominio.com/descargar.html",
+            "name": "Descargar"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Qué es No, I'm not a Human?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, I'm not a Human es un juego de horror psicológico de supervivencia desarrollado por Trioskaz. Debes identificar Visitantes impostores mortales entre supervivientes humanos durante un apocalipsis solar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos finales tiene el juego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El juego tiene 10 finales distintos, incluyendo finales buenos, malos, neutrales y secretos. Cada final depende de tus decisiones durante los 14 días de supervivencia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde puedo descargar No, I'm not a Human?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El juego está disponible en Steam por $4.99 USD, en Itch.io con precio flexible, y como parte de la colección Violent Horror Stories: Anthology por $2.99 USD."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo identifico a los Visitantes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los Visitantes pueden mostrar señales como dientes perfectos, uñas sucias y rotas, ojos extremadamente rojos, axilas sin vello, fotos borrosas o dedos extra. Sin embargo, estas señales son ambiguas y los humanos también pueden mostrarlas."
+          }
+        }
+      ]
+    }
+  ]
+}
