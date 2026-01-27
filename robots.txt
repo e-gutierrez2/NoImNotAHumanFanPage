@@ -15,6 +15,7 @@ Allow: /styles.css
 Allow: /img/
 
 # Archivos que no deben ser indexados
+Disallow: /No I'm Not A Human/
 
 # Sitemap
 Sitemap: https://tudominio.com/sitemap.xml
