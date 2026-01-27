@@ -3,8 +3,8 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://tudominio.com/#website",
-      "url": "https://tudominio.com/",
+      "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/#website",
+      "url": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/",
       "name": "No, I'm not a Human - Guía y Wiki del Juego",
       "description": "Guía completa del juego de horror psicológico No, I'm not a Human. Información sobre personajes, Visitantes, finales y mecánicas de juego.",
       "inLanguage": "es-ES",
@@ -61,12 +61,12 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://tudominio.com/index.html#webpage",
-      "url": "https://tudominio.com/index.html",
+      "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/index.html#webpage",
+      "url": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/index.html",
       "name": "Inicio - No, I'm not a Human",
       "description": "Guía completa del juego de horror psicológico No, I'm not a Human. Historia, mecánicas y toda la información que necesitas para sobrevivir.",
       "isPartOf": {
-        "@id": "https://tudominio.com/#website"
+        "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/#website"
       },
       "inLanguage": "es-ES",
       "about": {
@@ -77,45 +77,45 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://tudominio.com/personajes.html#webpage",
-      "url": "https://tudominio.com/personajes.html",
+      "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/personajes.html#webpage",
+      "url": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/personajes.html",
       "name": "Visitantes y Personajes - No, I'm not a Human",
       "description": "Guía completa de todos los Visitantes y personajes. Aprende a identificar quién es humano y quién es una amenaza mortal.",
       "isPartOf": {
-        "@id": "https://tudominio.com/#website"
+        "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/#website"
       },
       "inLanguage": "es-ES"
     },
     {
       "@type": "WebPage",
-      "@id": "https://tudominio.com/finales.html#webpage",
-      "url": "https://tudominio.com/finales.html",
+      "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/finales.html#webpage",
+      "url": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/finales.html",
       "name": "Todos los Finales - No, I'm not a Human",
       "description": "Descubre los 10 finales posibles del juego y cómo desbloquear cada uno. Desde finales buenos hasta secretos ocultos.",
       "isPartOf": {
-        "@id": "https://tudominio.com/#website"
+        "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/#website"
       },
       "inLanguage": "es-ES"
     },
     {
       "@type": "WebPage",
-      "@id": "https://tudominio.com/mecanicas.html#webpage",
-      "url": "https://tudominio.com/mecanicas.html",
+      "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/mecanicas.html#webpage",
+      "url": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/mecanicas.html",
       "name": "Mecánicas de Juego - No, I'm not a Human",
       "description": "Guía completa de todas las mecánicas del juego. Sistema de energía, identificación de Visitantes, supervivencia y estrategias.",
       "isPartOf": {
-        "@id": "https://tudominio.com/#website"
+        "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/#website"
       },
       "inLanguage": "es-ES"
     },
     {
       "@type": "WebPage",
-      "@id": "https://tudominio.com/descargar.html#webpage",
-      "url": "https://tudominio.com/descargar.html",
+      "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/descargar.html#webpage",
+      "url": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/descargar.html",
       "name": "Descargar - No, I'm not a Human",
       "description": "Enlaces oficiales para descargar el juego en Steam, Itch.io y otras plataformas. Requisitos del sistema y guía de instalación.",
       "isPartOf": {
-        "@id": "https://tudominio.com/#website"
+        "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/#website"
       },
       "inLanguage": "es-ES"
     },
@@ -126,7 +126,7 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://tudominio.com/",
+            "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/",
             "name": "Inicio"
           }
         },
@@ -134,7 +134,7 @@
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://tudominio.com/personajes.html",
+            "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/personajes.html",
             "name": "Visitantes"
           }
         },
@@ -142,7 +142,7 @@
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://tudominio.com/finales.html",
+            "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/finales.html",
             "name": "Finales"
           }
         },
@@ -150,7 +150,7 @@
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://tudominio.com/mecanicas.html",
+            "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/mecanicas.html",
             "name": "Mecánicas"
           }
         },
@@ -158,7 +158,7 @@
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://tudominio.com/descargar.html",
+            "@id": "https://noimnotahumanfanpage.e-gutierrez2.workers.dev/descargar.html",
             "name": "Descargar"
           }
         }
