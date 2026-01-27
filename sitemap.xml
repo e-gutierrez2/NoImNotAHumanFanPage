@@ -3,7 +3,7 @@
 
     <!-- Página Principal -->
     <url>
-        <loc>https://tudominio.com/index.html</loc>
+        <loc>https://noimnotahumanfanpage.e-gutierrez2.workers.dev/index.html</loc>
         <lastmod>2024-01-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
     <!-- Página de Visitantes/Personajes -->
     <url>
-        <loc>https://tudominio.com/personajes.html</loc>
+        <loc>https://noimnotahumanfanpage.e-gutierrez2.workers.dev/personajes.html</loc>
         <lastmod>2024-01-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
 
     <!-- Página de Finales -->
     <url>
-        <loc>https://tudominio.com/finales.html</loc>
+        <loc>https://noimnotahumanfanpage.e-gutierrez2.workers.dev/finales.html</loc>
         <lastmod>2024-01-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -27,7 +27,7 @@
 
     <!-- Página de Mecánicas -->
     <url>
-        <loc>https://tudominio.com/mecanicas.html</loc>
+        <loc>https://noimnotahumanfanpage.e-gutierrez2.workers.dev/mecanicas.html</loc>
         <lastmod>2024-01-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -35,7 +35,7 @@
 
     <!-- Página de Descarga -->
     <url>
-        <loc>https://tudominio.com/descargar.html</loc>
+        <loc>https://noimnotahumanfanpage.e-gutierrez2.workers.dev/descargar.html</loc>
         <lastmod>2024-01-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>

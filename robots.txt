@@ -18,7 +18,7 @@ Allow: /img/
 Disallow: /No I'm Not A Human/
 
 # Sitemap
-Sitemap: https://tudominio.com/sitemap.xml
+Sitemap: https://noimnotahumanfanpage.e-gutierrez2.workers.dev/sitemap.xml
 
 # Notas:
 # Este es un proyecto educativo para DAW
